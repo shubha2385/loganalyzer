@@ -1,10 +1,10 @@
 # loganalyzer
 Assignment from NN Group 
 
-#Prerequisites
+# Prerequisites
 Oracle JDK 8 onwards
 
-#Steps to execute
+# Steps to execute
 Clone this git repository on to local machine.
 Create Java Project in any of the java IDE such as Eclipse, Intellij or other.
 Copy the src and repository to the java project created in above step.
